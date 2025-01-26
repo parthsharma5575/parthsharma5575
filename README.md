@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthsharma5575&show_icons=true&locale=en&layout=compact" alt="parthsharma5575" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthsharma5575&show_icons=true&locale=en" alt="parthsharma5575" /></p>
+
+![snake gif](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)
+
