@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Parth Sharma</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Parth+Sharma!;" />
+</h1>
+<h3 align="center">An enthusiastic developer and Computer Science student from India</h3>
 
+<p align="center">
+    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Nuxtocat" width="400"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsharma5575&label=Profile%20views&color=0e75b6&style=flat" alt="parthsharma5575" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthsharma5575" alt="parthsharma5575" /></a> </p>
 
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **Java Development**
 
-- 🌱 I’m currently learning **Jetpack compose**
+- 🌱 I’m currently learning **Spring Framework**
+
+
 
 - 📫 How to reach me **ps451791@gmail.com**
 
