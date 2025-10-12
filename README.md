@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Parth+Sharma!;" />
 </h1>
-<h3 align="center">An enthusiastic developer and Computer Science student from India</h3>
+<h3 align="center">An enthusiastic developer and Computer Science student</h3>
 
 <p align="center">
     <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="Nuxtocat" width="400"/>
@@ -34,5 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthsharma5575&show_icons=true&locale=en" alt="parthsharma5575" /></p>
 
-![snake gif](https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/ankitpathak62/ankitpathak62/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
